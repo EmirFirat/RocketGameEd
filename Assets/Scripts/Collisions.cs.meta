@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ec27d4fee09ae5c44a82dcfef990e1e0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - succ: {instanceID: 0}
+  - crash: {fileID: 8300000, guid: 3fefbdf7c97fed94796e0ff9357fb4a4, type: 3}
+  - basari: {instanceID: 0}
+  - patlama: {instanceID: 0}
+  - rk: {instanceID: 0}
+  - hp: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
